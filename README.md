@@ -23,7 +23,11 @@ You can use the convar `workshop_disable_url` to set your own URL, or
 leave it as-is for the default page (which will be as simple as it is now).
 
 Please note that you have to put the URL within quotes, so you'd call something
-like this: `workshop_disable_url "http://example.com/blocked.html"`
+like this:
+
+```
+workshop_disable_url "http://example.com/blocked.html"
+```
 
 The webpage is fully interactive, so you can put buttons there or even include
 your forum.
