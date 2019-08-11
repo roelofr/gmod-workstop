@@ -1,13 +1,16 @@
 {
-	"title"		:	"Workstop",
-	"type"		:	"tool",
-	"tags"		:	[ "Build" ],
-	"ignore"	:
-	[
-		"*.psd",
-		"*.vcproj",
-		"*.svn*",
-		"*.git*",
-		"*.bat*"
-	]
+    "title": "Workstop",
+    "type": "tool",
+    "tags": [
+        "Build"
+    ],
+    "ignore": [
+        "*.psd",
+        "*.vcproj",
+        "*.svn*",
+        "*.git*",
+        "*.bat*",
+        "*.md",
+        ".editorconfig"
+    ]
 }
