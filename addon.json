@@ -2,7 +2,7 @@
     "title": "Workstop",
     "type": "tool",
     "tags": [
-        "Build"
+        "build"
     ],
     "ignore": [
         "*.psd",
